@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Mitsuhiro. 👋
+
+Currently, I am working on Python projects.
 
 <!--
 **mt33gh/mt33gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
